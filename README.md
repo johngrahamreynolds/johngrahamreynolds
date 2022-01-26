@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johngrahamreynolds
 - 👀 I’m interested in ...  
 
-      🤏📺🔬 Quantum Computing (Qiskit SDK in Python, algorithms construction, theory), 
+      🔬🖥🤏 Quantum Computing (Qiskit SDK in Python, algorithms construction, theory), 
       
       💻🏗🎢 Software Engineering (C, C++, C#, Java, Python), 
       
