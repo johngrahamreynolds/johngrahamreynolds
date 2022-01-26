@@ -7,7 +7,7 @@
       
       🐍🧮🏭 Data Engineering (Databricks, Python, Spark (pySpark), SQL),
       
-      🧠🤖📈 AI, Machine Learning (MLSpark, TensorFlow)
+      🧠🤖📈 AI, Machine Learning (Spark ML, TensorFlow)
       
       🕳🪐🔮 Black Holes, Gravity, and Quantum Theoretical Physics (Mathematica, Python), 
       
