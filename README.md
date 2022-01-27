@@ -2,29 +2,31 @@
 
       👱‍♂️🎓📚 I am a Data Engineer at Vanderbilt University Medical Center (Jan. 2022 -> present).
 
-I have a B.S. in Physics, Mathematics from Johns Hopkins University ('20). My background includes Data Engineering, Software Engineering, Theoretical Physics research under David Kaplan (https://www.quantamagazine.org/videos/what-happens-if-you-fall-into-a-black-hole/) and Experimental Physics R&D (CLASS Telescope cryogenics, https://sites.krieger.jhu.edu/class/).  
+I have a B.S. in Physics, Mathematics from Johns Hopkins University ('20). My background includes Data Engineering, Software Engineering, Theoretical Physics research under David Kaplan (https://www.quantamagazine.org/videos/what-happens-if-you-fall-into-a-black-hole/), and Experimental Physics R&D (CLASS Telescope cryogenics, https://sites.krieger.jhu.edu/class/).  
       
 - 👀 I’m interested in ...  
 
-      🔬🖥🤏 Quantum Computing (Qiskit SDK in Python, algorithms construction, theory), 
+      🔬🖥🤏 Quantum Computing (Qiskit SDK in Python, algorithms construction, theory) 
       
-      💻🏗🎢 Software Engineering (C, C++, C#, Java, Python), 
+      💻🏗🎢 Software Engineering (C, C++, C#, Java, Python) 
       
-      🐍🧮🏭 Data Engineering (Databricks, Python, Spark (pySpark), SQL),
+      🐍🧮🏭 Data Engineering (Databricks, Python, Spark (pySpark), SQL)
       
       🧠🤖📈 AI, Machine Learning (Spark ML, TensorFlow)
       
-      🕳🪐🔮 Black Holes, Gravity, and Quantum Theoretical Physics (Mathematica, Python), 
+      🕳🪐🔮 Black Holes, Gravity, and Quantum Theoretical Physics (Mathematica, Python, theory) 
       
       📡🌌🔭 Experimental/Observational Cosmology (Matlab, Python, SolidWorks)
       
 - 🌱 I’m currently learning ...
      
-      👾🚀🔀 Qiskit Python package, Spark ML, TensorFlow, 
+      👾🚀🔀 C#, Qiskit Python package, Spark ML
      
-- 🏧 I’m working currently on ...
+- 🏧 I’m working currently ...
 
-      👨‍💻👨‍🔬👷‍♂️ As a Data Engineer at VUMC... 
+      👨‍💻👨‍🔬👷‍♂️ As a Data Engineer at VUMC
+      
+      👀👨‍🏫🔋 On learning as many new skills across Data, Software, and Quantum Computer Engineering as I can
 
 - 📫 How to reach me ...
       
