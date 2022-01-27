@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @johngrahamreynolds
+
+      👱‍♂️🎓📚 I am a Data Engineer at Vanderbilt University Medical Center (Jan. 2022 -> present). I have a B.S. in Physics, Mathematics from Johns Hopkins University ('20). My background includes Data Engineering, Software Engineering, Theoretical Physics Research on the infamous Black Hole Information Problem with David Kaplan (https://www.quantamagazine.org/videos/what-happens-if-you-fall-into-a-black-hole/), and Experimental Physics R&D (CLASS Telescope cryogenics, https://sites.krieger.jhu.edu/class/).  
+      
 - 👀 I’m interested in ...  
 
       🔬🖥🤏 Quantum Computing (Qiskit SDK in Python, algorithms construction, theory), 
@@ -19,7 +22,7 @@
      
 - 🏧 I’m working currently on ...
 
-      👨‍💻👨‍🔬👷‍ As a Data Engineer at VUMC... 
+      👨‍💻👨‍🔬👷‍♂️ As a Data Engineer at VUMC... 
 
 - 📫 How to reach me ...
       
