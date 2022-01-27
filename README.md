@@ -16,7 +16,7 @@ I have a B.S. in Physics, Mathematics from Johns Hopkins University ('20). My ba
       
       🕳🪐🔮 Black Holes, Gravity, and Quantum Theoretical Physics (Mathematica, Python, theory) 
       
-      📡🌌🔭 Experimental/Observational Cosmology (Matlab, Python, SolidWorks)
+      📡🌌🧊 Experimental/Observational Cosmology and Cryogenics (Matlab, Python, SolidWorks)
       
 - 🌱 I’m currently learning ...
      
