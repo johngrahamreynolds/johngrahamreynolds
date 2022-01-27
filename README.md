@@ -12,7 +12,7 @@ I have a B.S. in Physics, Mathematics from Johns Hopkins University ('20). My ba
       
       🐍🧮🏭 Data Engineering (Databricks, Python, Spark (pySpark), SQL)
       
-      🧠🤖📈 AI, Machine Learning (Spark ML, TensorFlow)
+      🧠🤖📈 AI, Machine Learning (Spark MLlib, TensorFlow)
       
       🕳🪐🔮 Black Holes, Gravity, and Quantum Theoretical Physics (Mathematica, Python, theory) 
       
