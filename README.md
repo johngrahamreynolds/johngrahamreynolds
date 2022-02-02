@@ -14,7 +14,7 @@ I have a B.S. in Physics, Mathematics from Johns Hopkins University ('20). My ba
       
       🧠🤖📈 AI, Machine Learning (Spark MLlib, TensorFlow)
       
-      🕳🪐🔮 Black Holes, Gravity, and Quantum Theoretical Physics (Mathematica, Python, theory) 
+      🕳🪐🔮 Black Holes, Gravity, and Quantum Theoretical Physics (Theory, Mathematica, Python) 
       
       📡🌌🧊 Experimental/Observational Cosmology and Cryogenics (Matlab, Python, SolidWorks)
       
