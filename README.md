@@ -4,19 +4,19 @@
 
 I have a B.S. in Physics, Mathematics from Johns Hopkins University ('20). My background includes Data Engineering, Software Engineering, Theoretical Physics research (Quantum Gravity, https://www.quantamagazine.org/videos/what-happens-if-you-fall-into-a-black-hole/), and Observational Cosmology and Cryogenics R&D (CLASS Telescope, https://sites.krieger.jhu.edu/class/).  
       
-- 👀 I’m interested in ...  
+- 👀 I’m interested in ... 
 
-      🔬🖥🤏 Quantum Computing (Qiskit SDK in Python, algorithms construction, theory) 
+      🧠🤖📈 AI, Machine Learning (Spark MLlib, TensorFlow)
       
-      💻🏗🎢 Software Engineering (C, C++, C#, Java, Python) 
+      🕳🪐🔮 Black Holes, Gravity, and Quantum Theoretical Physics (Theory, Mathematica, Python)
       
       🐍🧮🏭 Data Engineering (Databricks, Python, Spark (pySpark), SQL)
       
-      🧠🤖📈 AI, Machine Learning (Spark MLlib, TensorFlow)
-      
-      🕳🪐🔮 Black Holes, Gravity, and Quantum Theoretical Physics (Theory, Mathematica, Python) 
-      
       📡🌌🧊 Experimental/Observational Cosmology and Cryogenics (Matlab, Python, SolidWorks)
+      
+      🔬🖥🤏 Quantum Computing (Qiskit SDK in Python, algorithms construction, theory) 
+      
+      💻🏗🎢 Software Engineering (C, C++, C#, Java, Python) 
       
 - 🌱 I’m currently learning ...
      
