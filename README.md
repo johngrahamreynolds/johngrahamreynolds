@@ -20,7 +20,7 @@ I have a B.S. in Physics, Mathematics from Johns Hopkins University ('20). My ba
       
 - 🌱 I’m currently learning ...
      
-      👾🚀🔀 C#, Q#, Qiskit and Cirq Python packages, Quantum Information Science and its relation to Quantum Gravity, Holography
+      👾🚀🔀 C#, Q#, Qiskit/Cirq Python packages, Quantum Information Science and its relation to Quantum Gravity, Holography
      
 - 🏧 I’m working currently ...
 
