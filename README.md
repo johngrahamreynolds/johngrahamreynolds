@@ -1,36 +1,40 @@
-- 👋 Hi, I’m @johngrahamreynolds
+👋 Hi, I’m @johngrahamreynolds. I finished my B.S. in Physics, Mathematics at Johns Hopkins University in 2020. 
 
-      👱‍♂️🎓📚 I am a Data Engineer at Vanderbilt University Medical Center (Jan. 2022 -> present).
+      👱‍♂️🎓📚 I am a Software, Data Engineer at Vanderbilt University Medical Center (Jan. 2022 -> present), and
+      〈🌌〉 an experienced physicist with interests in General Relativity, Black Holes, and Quantum Gravity.
 
-I have a B.S. in Physics, Mathematics from Johns Hopkins University ('20). My background includes Theoretical Physics research (Gravity, Black Hole Thermodynamics/ Mechanics, Quantum Gravity, https://www.quantamagazine.org/videos/what-happens-if-you-fall-into-a-black-hole/), Observational Cosmology and Cryogenics research and development (CLASS Telescope, https://sites.krieger.jhu.edu/class/), and Data / Software Engineering.  
-      
-- 👀 I’m interested in ... 
 
-      🧠🤖📈 AI, Machine Learning (TensorFlow, Spark MLlib, TensorFlow Quantum)
+My background of research (📖) and professional (🔩) experience includes:
+
+- 📖 Theoretical Physics research on the Black Hole Information Paradox (General Relativity, Qunatum Field Theory in Curved Spacetime;  https://www.quantamagazine.org/videos/what-happens-if-you-fall-into-a-black-hole/)
+- 📖 Observational Cosmology and Cryogenics research and development (CLASS Telescope, https://sites.krieger.jhu.edu/class/)
+- 🔩 Data, Software, Cloud Engineering
       
-      🕳🪐🔮 Black Hole, Gravitational, and Quantum Theoretical Physics (Theory, Mathematica, Python)
+👀 I’m interested in ... 
+
+      🕳🪐🔮 High Energy Theoretical Physics (Black Holes, General Relativity, Quantum Field Theory, Strings/Holography)
       
-      🐍🧮🏭 Data Engineering (Databricks, Python, Spark (pySpark), SQL)
+      🔬🖥🤏 Quantum Information, Quantum Computing (Theory and Development; Cryogenics, Q#, Qiskit and Cirq)
       
-      📡🌌🧊 Experimental/Observational Cosmology and Cryogenics (Matlab, Python, SolidWorks)
+      🧠🤖📈 AI, Machine Learning, Quantum ML (TensorFlow, TensorFlow Quantum)
       
-      🔬🖥🤏 Quantum Computing (Q#, Qiskit, Cirq Python packages, algorithms construction, theory) 
+      💻🏗🎢 Software, Computer Engineering (C/C++, Python)
       
-      💻🏗🎢 Software Engineering (C, C++, C#, Java, Python, algorithms, data structures) 
+      💭🧮☯️ Connections between Physics, Metaphysics, Epistemology, Logic, Religion
       
-- 🌱 I’m currently learning ...
+      🧪🚹🚺 Using all the above to consider ways of improving the Human Condition (Brain-Computer Interfaces, etc.)
+      
+🌱 I’m currently learning ...
      
-      👾🚀🔀 C#, Q#, Qiskit/Cirq Python packages, Quantum Information Science and its relation to Quantum Gravity, Holography
+      👾🚀🔀 Quantum Field Theory and Mathematical Physics pertaining to Hologrpahy, String Theory
      
-- 🏧 I’m working currently ...
+🏧 I’m working currently ...
 
-      👨‍💻👨‍🔬👷‍♂️ Professionally as a Data Engineer at VUMC
+      👨‍💻👨‍🔬👷‍♂️ Professionally as a Data, Software Engineer at VUMC
       
-      👀👨‍🏫🔋 On learning as many new skills across Data, Software, and Quantum Computer Engineering as I can
-      
-      🧵⚛️📓  Independently on Black Hole Thermodynamics and the effects of Quantum Field Theory in curved spacetime
+      🧵⚛️📓 To continue my research on Black Holes, General Relativity, and the effects of Quantum Field Theory in curved spacetime
 
-- 📫 How to reach me ...
+📫 How to reach me ...
       
       📩📬📧 johngrahamreynolds@gmail.com
 
