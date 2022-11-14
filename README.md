@@ -16,9 +16,7 @@ My background of research (📖) and professional (🔩) experience includes:
       
       🔬🖥🤏 Quantum Information, Quantum Computing (Theory and Development; Cryogenics, Q#, Qiskit and Cirq)
       
-      🧠🤖📈 AI, Machine Learning, Quantum ML (TensorFlow, TensorFlow Quantum)
-      
-      💻🏗🎢 Software, Computer Engineering (C/C++, Python)
+      🧠🤖📈 Software, Computer, AI/ML Engineering (C/C++, Python)
       
       💭🧮☯️ Connections between Physics, Metaphysics, Epistemology, Logic, Religion
       
