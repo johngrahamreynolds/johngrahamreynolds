@@ -42,5 +42,5 @@ My background of research (📖) and professional (🔩) experience includes:
 
 Links to the folders/repos within my page are below:
 
-### [Physics]
+### [Physics](https://github.com/johngrahamreynolds/Physics)
 
