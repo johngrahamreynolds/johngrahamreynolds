@@ -24,7 +24,7 @@ My background of research (📖) and professional (🔩) experience includes:
       
       🧪🚹🚺 Using all the above to consider ways of improving the Human Condition (Brain-Computer Interfaces, etc.)
       
-🌱 I’m currently learning ...
+🌱 I’m currently learning and solving problems in...
      
       👾🚀🔀 Quantum Field Theory and Mathematical Physics pertaining to Holography, String Theory
      
