@@ -26,7 +26,7 @@ My background of research (📖) and professional (🔩) experience includes:
       
 🌱 I’m currently learning ...
      
-      👾🚀🔀 Quantum Field Theory and Mathematical Physics pertaining to Hologrpahy, String Theory
+      👾🚀🔀 Quantum Field Theory and Mathematical Physics pertaining to Holography, String Theory
      
 🏧 I’m working currently ...
 
