@@ -32,7 +32,7 @@ My background of research (📖) and professional (🔩) experience includes:
 
       👨‍💻👨‍🔬👷‍♂️ Professionally as a Data, Software Engineer at VUMC
       
-      🧵⚛️📓 To continue my research on Black Holes, General Relativity, and the effects of Quantum Field Theory in curved spacetime
+      🧵⚛️📓 To compile notes on Quantum Gravity relating the aspects of General Relativity, Quantum Field Theory, Strings, Loop QG, etc
 
 📫 How to reach me ...
       
