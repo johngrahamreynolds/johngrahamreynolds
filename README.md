@@ -43,4 +43,8 @@ My background of research (📖) and professional (🔩) experience includes:
 Links to the folders/repos within my page are below:
 
 ### [Physics](https://github.com/johngrahamreynolds/Physics)
+This folder houses all things physics related on my page
+
+### [VUMC-Project](https://github.com/johngrahamreynolds/VUMC-Project)
+This folder houses a short project I created in a few hours for a job interview. 
 
