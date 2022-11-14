@@ -1,5 +1,3 @@
-# Basic Info
-
 👋 Hi, I’m @johngrahamreynolds. I finished my B.S. in Physics, Mathematics at Johns Hopkins University in May 2020. 
 
       👱‍♂️🎓📚 I am a Software, Data Engineer at Vanderbilt University Medical Center (Jan. 2022 -> present), and
@@ -40,13 +38,13 @@ My background of research (📖) and professional (🔩) experience includes:
       
       📩📬📧 johngrahamreynolds@gmail.com
 
-# Directory
+# Webpage Directory
 
 Links to the folders/repos within my page are below: 
 
 - ### [Physics](https://github.com/johngrahamreynolds/Physics)
-This folder houses all things physics related on my page
+      This folder houses all things physics related on my page
 
 - ### [VUMC-Project](https://github.com/johngrahamreynolds/VUMC-Project)
-This folder houses a short project I created in a few hours for a job interview. 
+      This folder houses a short project I created in a few hours time as part of a job interview.
 
