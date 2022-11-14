@@ -16,9 +16,9 @@ My background of research (📖) and professional (🔩) experience includes:
       
       🔬🖥🤏 Quantum Information, Quantum Computing (Theory and Development; Cryogenics, Q#, Qiskit and Cirq)
       
-      🧠🤖📈 Software, Computer, AI/ML Engineering (C/C++, Python)
+      🤖🏗📈 Software, Computer, AI/ML Engineering (C/C++, Python)
       
-      💭🧮☯️ Connections between Physics, Metaphysics, Epistemology, Logic, Religion
+      💭🧮🧠 Connections between Physics, Metaphysics, Epistemology, Logic, Religion
       
       🧪🚹🚺 Using all the above to consider ways of improving the Human Condition (Brain-Computer Interfaces, etc.)
       
