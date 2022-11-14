@@ -6,7 +6,7 @@
 
 My background of research (📖) and professional (🔩) experience includes:
 
-- 📖 Theoretical Physics research on the Black Hole Information Paradox (General Relativity, Qunatum Field Theory in Curved Spacetime;  https://www.quantamagazine.org/videos/what-happens-if-you-fall-into-a-black-hole/)
+- 📖 Theoretical Physics research on the Black Hole Information Paradox (General Relativity, Qunatum Mechanics;  https://www.quantamagazine.org/videos/what-happens-if-you-fall-into-a-black-hole/)
 - 📖 Observational Cosmology and Cryogenics research and development (CLASS Telescope, https://sites.krieger.jhu.edu/class/)
 - 🔩 Data, Software, Cloud Engineering
       
