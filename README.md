@@ -1,7 +1,7 @@
 👋 Hi, I’m @johngrahamreynolds. I finished my <ins>B.S. in Physics, Mathematics at Johns Hopkins University</ins> in May 2020. 
 
       👱‍♂️🎓📚 I am a Software, Data Engineer at Vanderbilt University Medical Center (Jan. 2022 -> present), and
-      〈🌌〉 an experienced physicist with interests in General Relativity, Black Holes, and Quantum Gravity.
+      〈🌌〉 an experienced physicist with interests in Black Holes, General Relativity, and Quantum Gravity.
 
 
 My background of research (📖) and professional (🔩) experience includes:
