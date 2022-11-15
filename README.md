@@ -36,7 +36,7 @@ My background of research (📖) and professional (🔩) experience includes:
       
       📩📬📧 johngrahamreynolds@gmail.com
 
-# Webpage Directory
+# Directory
 
 Links to the folders/repos within my page are below: 
 
