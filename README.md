@@ -3,7 +3,7 @@
       👱‍♂️🎓📚 I am a Software, Data Engineer at Vanderbilt University Medical Center (Jan. 2022 -> present), and
       〈🌌〉 an experienced physicist with interests in Black Holes, General Relativity, and Quantum Gravity.
 
-See the **Directory** section below for a guide to all the info housed on my page.
+### See the <ins>Directory</ins> section below for a guide to all the info housed on my page.
 
 My background of research (📖) and professional (🔩) experience includes:
 
