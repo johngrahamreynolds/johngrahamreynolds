@@ -13,7 +13,7 @@ My background of research (📖) and professional (🔩) experience includes:
       
 👀 I’m interested in ... 
 
-      🕳🪐🔮 Theoretical Physics (Black Holes, Cosmology, General Relativity, Quantum Field Theory, Strings/Holography)
+      🕳🪐🔮 Theoretical Physics (Black Holes, Quantum Gravity, General Relativity, Quantum Field Theory, Strings/Holography)
       
       🔬🖥🤏 Quantum Information, Quantum Computing (Theory and Development; Cryogenics, Q#, Qiskit and Cirq)
       
