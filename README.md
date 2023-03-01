@@ -22,6 +22,8 @@ My background of research (📖) and professional (🔩) experience includes:
       🧪🚹🚺 Using all the above to consider ways of improving the Human Condition (Brain-Computer Interfaces, Space Exploration, etc.)
       
 🌱 I’m currently learning and solving problems in...
+
+      💻🏔🧠 Classical and Hybrid Quantum-Classical Machine Learning and AI algorithms (TensorFlow, TensorFlow Quantum)
      
       👾🚀🔀 Quantum Field Theory and Mathematical Physics pertaining to Holography, String Theory
      
