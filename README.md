@@ -7,9 +7,9 @@
 
 My background of research (📖) and professional (🔩) experience includes:
 
+- 🔩 Data, Software, Cloud Engineering
 - 📖 Theoretical Physics research on *Black Hole Firewalls* and *the Information Paradox* under David Kaplan (General Relativity, Qunatum Mechanics: https://www.quantamagazine.org/videos/what-happens-if-you-fall-into-a-black-hole/)
 - 📖 Observational Cosmology and Cryogenics research and development under Co-PIs Toby Marriage, Chuck Bennett (CLASS Telescope: https://sites.krieger.jhu.edu/class/)
-- 🔩 Data, Software, Cloud Engineering
       
 👀 I’m interested in ... 
 
@@ -31,7 +31,7 @@ My background of research (📖) and professional (🔩) experience includes:
 
       👨‍💻👨‍🔬👷‍♂️ Professionally as a Data, Software Engineer at VUMC
       
-      🧵⚛️📓 To compile broad notes on Quantum Gravity relating General Relativity, Quantum Field Theory, Strings, Loop QG, etc
+      🧵⚛️📓 To compile broad notes on Quantum Gravity relating General Relativity, Quantum Field Theory, Strings, etc
 
 📫 How to reach me ...
       
