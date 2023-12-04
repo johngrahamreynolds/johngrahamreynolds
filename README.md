@@ -21,7 +21,7 @@ My background of research (📖) and professional (🔩) experience includes:
       
       🤖🏗📈 Software, Computer, AI/ML Engineering (C/C++, Python, TensorFlow, Spark, MLlib, Databricks, etc.)
       
-      🧪🚹🚺 Using all the above to consider ways of improving the Human Condition (Brain-Computer Interfaces, Space Exploration, Virtual Reality/ Simulation etc.)
+      🧪🚹🚺 Using all the above to consider ways of improving the Human Condition (Brain-Computer Interfaces, Space Exploration, Virtual Reality/Simulations etc.)
       
 🌱 I’m currently learning and solving problems in...
 
