@@ -17,7 +17,7 @@ My background of research (📖) and professional (🔩) experience includes:
       
       🔬🖥🤏 Quantum Information, Quantum Computing (Theory and Development; Cryogenics, Cirq, Q#, and Qiskit)
       
-      🤖🏗📈 Software, Computer, AI/ML Engineering (C/C++, Python)
+      🤖🏗📈 Software, Computer, AI/ML Engineering (C/C++, Python, TensorFlow, Spark, MLlib, Databricks, etc.)
       
       🧪🚹🚺 Using all the above to consider ways of improving the Human Condition (Brain-Computer Interfaces, Space Exploration, etc.)
       
