@@ -17,7 +17,7 @@ My background of research (📖) and professional (🔩) experience includes:
       
       🔬🖥🤏 Quantum Information, Quantum Computing (Theory and Development; Cryogenics, Cirq, Q#, and Qiskit)
 
-      ◼️🧮➗ Pure and Applied Mathematics (Differential/Kähler/Calabi-Yau Geometry, (Quantum) Information Theory, Set Theory and Logic/Foundations of Mathematics, Theoretical Computer Science)
+      ◼️🧮➗ Pure and Applied Mathematics (Differential/Kähler/Calabi-Yau Geometry, Set Theory and Logic/Foundations of Mathematics, Theoretical Computer Science)
       
       🤖🏗📈 Software, Computer, AI/ML Engineering (C/C++, Python, TensorFlow, Spark, MLlib, Databricks, etc.)
       
