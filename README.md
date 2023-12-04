@@ -1,7 +1,7 @@
 👋 Hi, I’m @johngrahamreynolds. I finished my <ins>B.S. in Physics, Mathematics at Johns Hopkins University</ins> in May 2020. 
 
       👱‍♂️🎓📚 I am a Software, Data Engineer at Vanderbilt University Medical Center (Jan. 2022 -> present), and
-      〈🌌〉 an experienced physicist with interests in Black Holes, General Relativity, and Quantum Gravity.
+      〈🌌〉 an experienced physicist with interests in General Relativity, Quantum Gravity, and Quantum Computing.
 
 ### See the <ins>Directory</ins> section below for a guide to all the info housed on my page.
 
@@ -13,9 +13,9 @@ My background of research (📖) and professional (🔩) experience includes:
       
 👀 I’m interested in ... 
 
-      🕳🪐🔮 Theoretical Physics (Black Holes, Quantum Gravity, General Relativity, Quantum Field Theory, Strings/Holography)
+      🕳🪐🔮 Theoretical Physics (Black Holes, Quantum Gravity, General Relativity, Quantum Information, Strings/Holography)
       
-      🔬🖥🤏 Quantum Information, Quantum Computing (Theory and Development; Cryogenics, Q#, Qiskit and Cirq)
+      🔬🖥🤏 Quantum Information, Quantum Computing (Theory and Development; Cryogenics, Cirq, Q#, and Qiskit)
       
       🤖🏗📈 Software, Computer, AI/ML Engineering (C/C++, Python)
       
@@ -25,7 +25,7 @@ My background of research (📖) and professional (🔩) experience includes:
 
       💻🏔🧠 Classical and Hybrid Quantum-Classical Machine Learning (TensorFlow, TensorFlow Quantum)
      
-      👾🚀🔀 Quantum Field Theory and Mathematical Physics pertaining to Holography, String Theory
+      👾🚀🔀 Quantum Information Theory and Mathematical Physics pertaining to Holography, String Theory
      
 🏧 I’m working currently ...
 
