@@ -25,7 +25,7 @@ My background of research (📖) and professional (🔩) experience includes:
 
       💻🏔🧠 Classical and Hybrid Quantum-Classical Machine Learning (TensorFlow, TensorFlow Quantum)
      
-      👾🚀🔀 Quantum Information Theory and Mathematical Physics pertaining to Holography, String Theory
+      👾🚀🔀 Quantum Field/Information Theory and Mathematical Physics pertaining to Holography, String Theory
      
 🏧 I’m working currently ...
 
