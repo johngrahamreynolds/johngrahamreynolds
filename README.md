@@ -33,7 +33,7 @@ My background of research (📖) and professional (🔩) experience includes:
 
       👨‍💻👨‍🔬👷‍♂️ Professionally as a Data, Software Engineer at VUMC
       
-      🧵⚛️📓 To type up solutions and notes on Strings Theory, Pure Mathematics, and more
+      🧵⚛️📓 To type up solutions and notes on String Theory, Pure Mathematics, and Complexity more
 
 📫 How to reach me ...
       
