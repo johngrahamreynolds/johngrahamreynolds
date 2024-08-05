@@ -15,13 +15,13 @@ My background of research (📖) and professional (🔩) experience includes:
 
       🕳🪐🔮 Theoretical Physics (Quantum Gravity, Quantum Information, Strings/Holography)
       
-      🔬🖥🤏 Quantum Information, Quantum Computing (Theory and Development; Cryogenics, Cirq, Q#, and Qiskit)
+      🔬🖥🤏 Quantum Information, Quantum Computing (Theory and Development; Cryogenics, Cirq, Qiskit, Q#)
 
       ◼️🧮➗ Pure and Applied Mathematics (Differential/Kähler/Calabi-Yau Geometry, Set Theory and Logic/Foundations of Mathematics, Theoretical Computer Science)
       
-      🤖🏗📈 Software, Computer, AI/ML Engineering (C/C++, Python, TensorFlow, Spark, MLlib, Databricks, etc.)
+      🤖🏗📈 Software, Computer, AI/ML Engineering (C/C++, Python, TensorFlow, Spark, Databricks, etc.)
       
-      🧪🚹🚺 Using all the above to consider ways of improving the Human Condition (Brain-Computer Interfaces, Space Exploration, Virtual Reality/Simulations etc.)
+      🧪🚹🚺 Using all the above to consider ways of improving the Human Condition (Brain-Computer Interfaces, Space Exploration, Virtual Reality/Simulations/Emulations etc.)
       
 🌱 I’m currently learning and solving problems in...
 
@@ -33,19 +33,25 @@ My background of research (📖) and professional (🔩) experience includes:
 
       👨‍💻👨‍🔬👷‍♂️ Professionally as a Data, Software Engineer at VUMC
       
-      🧵⚛️📓 To type up solutions and notes on String Theory, Pure Mathematics, Complexity, and more
+      🧵⚛️📓 To type up solutions and notes on String Theory, Pure Mathematics, Quantum Computing, and more
 
 📫 How to reach me ...
       
-      📩📬📧 johngrahamreynolds@gmail.com
+      📩📬📧 johngrahamreynolds@gmail.com, LeetCode: johngrahamreynolds
 
 # Directory
 
 Links to the folders/repos within my page are below: 
 
-- ### [Physics](https://github.com/johngrahamreynolds/Physics)
-      This folder houses all things physics related on my page
+- ### [Physics Research](https://github.com/johngrahamreynolds/Physics)
+      This folder houses all things physics research related (mathematical physics, experimental physics, etc.)
+
+- ### [Quantum Computing](https://github.com/johngrahamreynolds/QuantumComputing)
+      This folder houses all things related to quantum computing and quantum engineering
+
+- ### [Google Machine Learning](https://github.com/johngrahamreynolds/GoogleML)
+      This folder houses resources for machine learning related to TensorFlow and Google machine learning courses
 
 - ### [VUMC-Project](https://github.com/johngrahamreynolds/VUMC-Project)
-      This folder houses a short project I created in a few hours time as part of a job interview.
+      This folder houses a short project I created in a few hours time as part of a job interview
 
