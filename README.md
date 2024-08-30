@@ -7,7 +7,7 @@
 
 My background of research (📖) and professional (🔩) experience includes:
 
-- 🔩 Software, Cloud, Data Engineering
+- 🔩 Software/Data Engineering, various techniques in High-Performance Computing, Cloud Infrastructure Design, and more
 - 📖 Theoretical Physics research on *Black Hole Firewalls* and *the Information Paradox* under David Kaplan (General Relativity, Qunatum Mechanics: https://www.quantamagazine.org/videos/what-happens-if-you-fall-into-a-black-hole/)
 - 📖 Observational Cosmology and Cryogenics research and development under Co-PIs Toby Marriage, Chuck Bennett (CLASS Telescope: https://sites.krieger.jhu.edu/class/)
       
