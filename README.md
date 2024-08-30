@@ -15,7 +15,7 @@ My background of research (📖) and professional (🔩) experience includes:
 
       🕳🪐🔮 Theoretical Physics (Quantum Gravity, Quantum Information, Strings/Holography)
       
-      🔬🖥🤏 Quantum Information, Quantum Computing (Theory and Development; Cryogenics, Cirq, Qiskit, Q#)
+      🔬🖥🤏 Quantum Information, Quantum Computing (Theory and Development; Cryogenics, Cirq, Quantum Algorithms, etc.)
 
       ◼️🧮➗ Pure and Applied Mathematics (Differential/Kähler/Calabi-Yau Geometry, Set Theory and Logic/Foundations of Mathematics, Theoretical Computer Science)
       
