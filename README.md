@@ -19,9 +19,9 @@ My background of research (📖) and professional (🔩) experience includes:
 
       ◼️🧮➗ Pure and Applied Mathematics (Differential/Kähler/Calabi-Yau Geometry, Set Theory and Logic/Foundations of Mathematics, Theoretical Computer Science)
       
-      🤖🏗📈 Software, Computer, AI/ML Engineering (C/C++, Python, TensorFlow, Spark, Databricks, etc.)
+      🤖🏗📈 Software, Computer, AI/ML Engineering (C/C++, Python, TensorFlow, Spark, virtualization, emulation, etc.)
       
-      🧪🚹🚺 Using all the above to consider ways of improving the Human Condition (Brain-Computer Interfaces, Space Exploration, Virtual Reality/Simulations/Emulations etc.)
+      🧪🚹🚺 Using all the above to consider ways of improving the Human Condition (Virtual Reality/Simulations/Emulations, Brain-Computer Interfaces, Space Exploration etc.)
       
 🌱 I’m currently learning and solving problems in...
 
