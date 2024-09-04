@@ -43,7 +43,7 @@ My background of research (📖) and professional (🔩) experience includes:
 
 Links to the folders/repos within my page are below: 
 
-- ### [Anthopic AI Advancements](https://github.com/johngrahamreynolds/Anthropic)
+- ### [Anthopic AI](https://github.com/johngrahamreynolds/Anthropic)
       This repo contains various attempts to play around with and improve Claude, particularly in the regimes of elegant, correct mathmematics and code generation.
 
 - ### [Physics Research](https://github.com/johngrahamreynolds/Physics)
