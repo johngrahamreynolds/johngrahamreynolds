@@ -17,11 +17,11 @@ My background of research (📖) and professional (🔩) experience includes:
       
       🔬🖥🤏 Quantum Information, Quantum Computing (Theory and Development; Cryogenics, Cirq, Quantum Algorithms, etc.)
 
+       🤖🏗📈 Generative AI/ML Engineering, HPC (Claude, ChatGPT, RLHF, TensorFlow, Spark, virtualization, emulation, etc.)
+
       ◼️🧮➗ Pure and Applied Mathematics (Differential/Kähler/Calabi-Yau Geometry, Set Theory and Logic/Foundations of Mathematics, Theoretical Computer Science)
       
-      🤖🏗📈 Software, Computer, AI/ML Engineering (C/C++, Python, TensorFlow, Spark, virtualization, emulation, etc.)
-      
-      🧪🚹🚺 Using all the above to consider ways of improving the Human Condition (Virtual Reality/Simulations/Emulations, Brain-Computer Interfaces, Space Exploration etc.)
+      🧪🚹🚺 Using all the above to consider ways of improving the Human Condition (GenAI, Virtual Reality/Simulations/Emulations, Brain-Computer Interfaces, Space Exploration etc.)
       
 🌱 I’m currently learning and solving problems in...
 
