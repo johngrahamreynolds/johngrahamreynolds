@@ -25,7 +25,7 @@ My background of research (📖) and professional (🔩) experience includes:
       
 🌱 I’m currently learning and solving problems in...
 
-      💻🏔🧠 Classical and Hybrid Quantum-Classical Machine Learning (TensorFlow, TensorFlow Quantum)
+      💻🏔🧠 Classical and Hybrid Quantum-Classical Machine Learning (TensorFlow, Cirq, TensorFlow Quantum)
      
       👾🚀🔀 Mathematical Physics pertaining to String Theory, Holography and Quantum Field/Information Theory
      
