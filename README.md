@@ -19,7 +19,7 @@ My background of research (📖) and professional (🔩) experience includes:
 
        🤖🏗📈 Generative AI/ML Engineering, HPC (Claude, ChatGPT, RLHF, TensorFlow, Spark, virtualization, emulation, etc.)
 
-      ◼️🧮➗ Pure and Applied Mathematics (Differential/Kähler/Calabi-Yau Geometry, Set Theory and Logic/Foundations of Mathematics, Theoretical Computer Science)
+      ◼️🧮➗ Pure and Applied Mathematics (Theoretical Computer Science, Differential/Kähler/Calabi-Yau Geometry, Set Theory and Logic/Foundations of Mathematics)
       
       🧪🚹🚺 Using all the above to consider ways of improving the Human Condition (GenAI, Virtual Reality/Simulations/Emulations, Brain-Computer Interfaces, Space Exploration etc.)
       
