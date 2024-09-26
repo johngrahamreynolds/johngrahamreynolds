@@ -31,7 +31,7 @@ My background of research (📖) and professional (🔩) experience includes:
      
 🏧 I’m working currently ...
 
-      👨‍💻👨‍🔬👷‍♂️ Professionally as a Data, Software Engineer at VUMC
+      👨‍💻👨‍🔬👷‍♂️ Professionally as a Software, Data Engineer at VUMC
       
       🧵⚛️📓 To type up solutions and notes on String Theory, Pure Mathematics, Quantum Computing, and more
 
