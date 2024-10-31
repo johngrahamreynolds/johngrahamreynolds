@@ -18,7 +18,7 @@ See my current resume [here](https://github.com/johngrahamreynolds/johngrahamrey
 
       🕳🪐🔮 Theoretical Physics (Quantum Gravity, Quantum Information, Strings/Holography)
 
-      🤖🏗📈 Generative AI/ML Engineering, HPC (Transformers like BERT, GPT, etc., GPU compute, Mathematics+Code generation)
+      🤖🏗📈 Generative AI/ML Engineering, HPC (Transformers like BERT, GPT, etc., GPUs/TPUs, Mathematics+Code generation)
       
       🔬🖥🤏 Quantum Information, Quantum Computing (Theory and Development- Quantum Algorithms, Cryogenics etc.)
 
