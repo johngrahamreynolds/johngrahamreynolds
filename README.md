@@ -1,43 +1,46 @@
 👋 Hi, I’m @johngrahamreynolds. I finished my <ins>B.S. in Physics, Mathematics at Johns Hopkins University</ins> in May 2020. 
 
-      👱‍♂️🎓📚 I'm a Machine Learning / Data Engineer at Vanderbilt University Medical Center (Jan. 2022 -> present), and
+      👱‍♂️🎓📚 I'm a Machine Learning / Data Engineer at Vanderbilt University (Jan. 2022 -> present), and
       〈🌌〉 a mathematical physicist with interests in Quantum Gravity, Quantum Computing, and Pure Mathematics.
 
 ### See the <ins>Directory</ins> section below for a guide to all the info housed on my page.
 
 My background of research (📖) and professional (🔩) experience includes:
 
-- 🔩 Software/Data Engineering, various techniques in High-Performance Computing, Cloud Infrastructure Design, and more
-- 📖 Theoretical Physics research on *Black Hole Firewalls* and *the Information Paradox* under David Kaplan (General Relativity, Qunatum Mechanics: [Click here for a fantastic article, including a video of David's basic explanation!](https://www.quantamagazine.org/wormhole-entanglement-and-the-firewall-paradox-20150424/)
+- 🔩📖 AI and Deep Learning research and engineering - training state of the art multi-million to multi-billion parameter Transformer models ([Hugging Face 🤗 profile](https://huggingface.co/MarioBarbeque))
+- 🔩 Using Apache Spark and techniques from High-Performance Computing to engineer big data
+- 📖 Theoretical Physics research on *Black Holes*, *String Theory*, *General Relativity*, and more - advised by David Kaplan (a fantastic [article and video](https://www.quantamagazine.org/wormhole-entanglement-and-the-firewall-paradox-20150424/) of David explaining the ideas I worked on!)
 - 📖 Observational Cosmology and Cryogenics research and development under Co-PIs Toby Marriage, Chuck Bennett ([CLASS Telescope website](https://sites.krieger.jhu.edu/class/))
+
+See my current resume [here](https://github.com/johngrahamreynolds/johngrahamreynolds/edit/main/README.md).
       
 👀 I’m interested in ... 
 
       🕳🪐🔮 Theoretical Physics (Quantum Gravity, Quantum Information, Strings/Holography)
-      
-      🔬🖥🤏 Quantum Information, Quantum Computing (Theory and Development; Cryogenics, Cirq, Quantum Algorithms, etc.)
 
-       🤖🏗📈 Generative AI/ML Engineering, HPC (Claude, ChatGPT, RLHF, TensorFlow, Spark, virtualization, emulation, etc.)
+      🤖🏗📈 Generative AI/ML Engineering, HPC (Transformers like BERT, GPT, etc., GPU compute, Mathematics+Code generation)
+      
+      🔬🖥🤏 Quantum Information, Quantum Computing (Theory and Development- Quantum Algorithms, Cryogenics etc.)
 
       ◼️🧮➗ Pure and Applied Mathematics (Theoretical Computer Science, Differential/Kähler/Calabi-Yau Geometry, Set Theory and Logic/Foundations of Mathematics)
       
-      🧪🚹🚺 Using all the above to consider ways of improving the Human Condition (GenAI, Virtual Reality/Simulations/Emulations, Brain-Computer Interfaces, Space Exploration etc.)
+      🧪🚹🚺 Using all of the above to consider ways of improving the Human Condition (GenAI, Virtual Reality/Simulations/Emulations, Brain-Computer Interfaces, Space Exploration etc.)
       
 🌱 I’m currently learning and solving problems in...
 
-      💻🏔🧠 Classical ML, Hybrid Quantum-Classical ML, and Quantum Computing (TensorFlow, Cirq, TensorFlow Quantum)
+      💻🏔🧠 Classical AI/ML and Quantum Computing/Information
      
       👾🚀🔀 Mathematical Physics pertaining to String Theory, Holography and Quantum Field/Information Theory
      
-🏧 I’m working currently ...
+🏧 I’m working ...
 
-      👨‍💻👨‍🔬👷‍♂️ Professionally as a Software, Data Engineer at VUMC
+      👨‍💻👨‍🔬👷‍♂️ Professionally as a Machine Learning and Data Engineer
       
-      🧵⚛️📓 To type up solutions and notes on String Theory, Pure Mathematics, Quantum Computing, and more
+      🧵⚛️📓 To type up solutions and notes on String Theory, Pure Mathematics, Generative AI, Quantum Computing, and more
 
 📫 How to reach me ...
       
-      📩📬📧 johngrahamreynolds@gmail.com, LeetCode: johngrahamreynolds
+      📩📬📧 johngrahamreynolds@gmail.com, Hugging Face 🤗: @MarioBarbeque, LeetCode: @johngrahamreynolds
 
 # Directory
 
