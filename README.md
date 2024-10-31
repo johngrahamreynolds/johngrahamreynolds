@@ -47,7 +47,7 @@ See my current resume [here](https://github.com/johngrahamreynolds).
 Links to the folders/repos within my page are below: 
 
 - ### [Anthopic AI](https://github.com/johngrahamreynolds/Anthropic)
-      This repo contains various attempts to improve Claude's ability with mathmematics and code generation.
+      This repo contains various attempts to improve Claude's postprocessing ability with mathmematics and code generation.
 
 - ### [Physics Research](https://github.com/johngrahamreynolds/Physics)
       This folder houses all things physics research related (mathematical physics, experimental physics, etc.)
