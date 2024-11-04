@@ -1,7 +1,7 @@
 👋 Hi, I’m @johngrahamreynolds. I finished my <ins>B.S. in Physics, Mathematics at Johns Hopkins University</ins> in May 2020. 
 
       👱‍♂️🎓📚 I'm a Machine Learning / Data Engineer at Vanderbilt University (Jan. 2022 -> present), and
-      〈🌌〉 a mathematical physicist with interests in Quantum Gravity, Quantum Computing, and Pure Mathematics.
+      〈🌌〉 a mathematical physicist with interests in Quantum Gravity, AI, Quantum Computing, and Pure Mathematics.
 
 ### See the <ins>Directory</ins> section below for a guide to all the info housed on my page.
 
@@ -46,8 +46,8 @@ See my current resume [here](https://github.com/johngrahamreynolds).
 
 Links to the folders/repos within my page are below: 
 
-- ### [Anthopic AI](https://github.com/johngrahamreynolds/Anthropic)
-      This repo contains various attempts to improve Claude's postprocessing ability with mathmematics and code generation.
+- ### [Generative AI and LLMs](https://github.com/johngrahamreynolds/RoBERTa-base-DReiFT)
+      This repo contains the training, evaluation, and custom evaluation code used to train a large multilabel text classification model atop RoBERTa.
 
 - ### [Physics Research](https://github.com/johngrahamreynolds/Physics)
       This folder houses all things physics research related (mathematical physics, experimental physics, etc.)
@@ -55,8 +55,8 @@ Links to the folders/repos within my page are below:
 - ### [Quantum Computing](https://github.com/johngrahamreynolds/QuantumComputing)
       This folder houses all things related to quantum computing and quantum engineering
 
-- ### [Google Machine Learning](https://github.com/johngrahamreynolds/GoogleML)
-      This folder houses resources for machine learning related to TensorFlow and Google machine learning courses
+  - ### [Anthopic AI](https://github.com/johngrahamreynolds/Anthropic)
+      This repo contains various attempts to improve Claude's postprocessing ability with mathmematics and code generation.
 
 - ### [VUMC-Project](https://github.com/johngrahamreynolds/VUMC-Project)
       This folder houses a short project I created in a few hours time as part of a job interview
