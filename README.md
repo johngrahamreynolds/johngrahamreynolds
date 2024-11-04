@@ -55,7 +55,7 @@ Links to the folders/repos within my page are below:
 - ### [Quantum Computing](https://github.com/johngrahamreynolds/QuantumComputing)
       This folder houses all things related to quantum computing and quantum engineering
 
-  - ### [Anthopic AI](https://github.com/johngrahamreynolds/Anthropic)
+- ### [Anthopic AI](https://github.com/johngrahamreynolds/Anthropic)
       This repo contains various attempts to improve Claude's postprocessing ability with mathmematics and code generation.
 
 - ### [VUMC-Project](https://github.com/johngrahamreynolds/VUMC-Project)
