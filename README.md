@@ -7,7 +7,7 @@
 
 My background of research (📖) and professional (🔩) experience includes:
 
-- 🔩📖 AI and Deep Learning research and engineering - training state of the art multi-million to multi-billion parameter Encoder and Decoder Transformer models ([Hugging Face 🤗 profile](https://huggingface.co/MarioBarbeque))
+- 🔩📖 AI and Deep Learning research and engineering - training state-of-the-art multi-million to multi-billion parameter Encoder and Decoder Transformer models ([Hugging Face 🤗 profile](https://huggingface.co/MarioBarbeque))
 - 🔩 Using Apache Spark and techniques from High-Performance Computing to engineer big data
 - 📖 Theoretical Physics research on *Black Holes*, *String Theory*, *General Relativity*, and more - advised by David Kaplan (a fantastic [article and video](https://www.quantamagazine.org/wormhole-entanglement-and-the-firewall-paradox-20150424/) of David explaining the ideas I worked on!)
 - 📖 Observational Cosmology and Cryogenics research and development - advised by Co-PIs Toby Marriage, Chuck Bennett ([CLASS Telescope website](https://sites.krieger.jhu.edu/class/))
