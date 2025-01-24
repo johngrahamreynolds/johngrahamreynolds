@@ -1,6 +1,6 @@
 👋 Hi, I’m @johngrahamreynolds. I finished my <ins>B.S. in Physics, Mathematics at Johns Hopkins University</ins> in May 2020. 
 
-      👱‍♂️🎓📚 I'm a Machine Learning / Data Engineer at Vanderbilt University (Jan. 2022 -> present), and
+      👱‍♂️🎓📚 I'm a Data / Machine Learning Engineer at Vanderbilt University (Jan. 2022 -> present), and
       〈🌌〉 a mathematical physicist with interests in Quantum Gravity, AI, Quantum Computing, and Pure Mathematics.
 
 ### See the <ins>Directory</ins> section below for a guide to all the info housed on my page.
@@ -8,7 +8,7 @@
 My background of research (📖) and professional (🔩) experience includes:
 
 - 🔩📖 AI and Deep Learning research and engineering - training state-of-the-art multi-million to multi-billion parameter Encoder and Decoder Transformer models ([Hugging Face 🤗 profile](https://huggingface.co/MarioBarbeque))
-- 🔩 Using Apache Spark and techniques from High-Performance Computing to engineer big data
+- 🔩 Using Apache Spark, Cloud Resources, and techniques from High-Performance Computing (amongst many other tools) to engineer big data
 - 📖 Theoretical Physics research on *Black Holes*, *String Theory*, *General Relativity*, and more - advised by David Kaplan (a fantastic [article and video](https://www.quantamagazine.org/wormhole-entanglement-and-the-firewall-paradox-20150424/) of David explaining the ideas I worked on!)
 - 📖 Observational Cosmology and Cryogenics research and development - advised by Co-PIs Toby Marriage, Chuck Bennett ([CLASS Telescope website](https://sites.krieger.jhu.edu/class/))
 
