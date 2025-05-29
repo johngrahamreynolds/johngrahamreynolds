@@ -1,7 +1,10 @@
-👋 Hi, I’m @johngrahamreynolds. I finished my <ins>B.S. in Physics, Mathematics at Johns Hopkins University</ins> in May 2020. 
+👋 Hi, I’m @johngrahamreynolds. I'm currently a graduate student in the <ins>University Texas at Austin, Department of Computer Science </ins>. I work broadly across engineering and the natural sciences as
 
-      👱‍♂️🎓📚 I'm a Data / Machine Learning Engineer at Vanderbilt University (Jan. 2022 -> present), and
-      〈🌌〉 a mathematical physicist with interests in Quantum Gravity, AI, Quantum Computing, and Pure Mathematics.
+      ⚛️👨‍💻🧠 a computer scientist at UT Austin with interests in Quantum Computing, AGI, Deep Reasoning, etc.
+      〈🌌〉 a mathematical physicist with interests in Quantum Gravity, String Theory, and Pure Mathematics, and
+      💻📊📐 a Data, Machine Learning Engineer at Vanderbilt University (2022 -> present)
+
+I finished my <ins>B.S. in Physics, Mathematics at Johns Hopkins University</ins> in May 2020.
 
 ### See the <ins>Directory</ins> section below for a guide to all the info housed on my page.
 
