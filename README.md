@@ -1,4 +1,4 @@
-👋 Hi, I’m @johngrahamreynolds. I'm currently a graduate student in the <ins>University of Texas at Austin, Department of Computer Science </ins> and a Data, ML Engineer. I work broadly across engineering and the natural sciences as
+👋 Hi, I’m @johngrahamreynolds. I'm currently a graduate student in the [University of Texas at Austin, Department of Computer Science](https://www.cs.utexas.edu/) and a Data, ML Engineer. I work broadly across engineering and the natural sciences as
 
       ⚛️👨‍💻🧠 a computer scientist at UT Austin with interests in Quantum Computing, AGI, Deep Reasoning, etc.
       〈🌌〉 a mathematical physicist with interests in Quantum Gravity, String Theory, and Pure Mathematics, and
