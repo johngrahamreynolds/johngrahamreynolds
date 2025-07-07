@@ -19,9 +19,9 @@ See my current resume [here](https://github.com/johngrahamreynolds/Resume/blob/m
       
 👀 I’m interested in ... 
 
-      🕳🪐🔮 Theoretical Physics (Quantum Gravity, Quantum Information, Strings/Holography)
+      🤖🏗📈 AI, Deep Learning, HPC (Transformers, GPUs/TPUs, Mathematics+Code generation, Deep Reasoning)
 
-      🤖🏗📈 AI, Deep Learning, HPC (Transformers, BERT, GPT, etc., GPUs/TPUs, Mathematics+Code generation, Deep Reasoning)
+      🕳🪐🔮 Theoretical Physics (Quantum Gravity, Quantum Information, Strings/Holography)
       
       🔬🖥🤏 Quantum Information, Quantum Computing (Theory and Development- Quantum Algorithms, Cryogenics etc.)
 
@@ -31,7 +31,7 @@ See my current resume [here](https://github.com/johngrahamreynolds/Resume/blob/m
       
 🌱 I’m currently learning and solving problems in...
 
-      💻🏔🧠 Classical AI/ML and Quantum Computing/Information
+      💻🏔🧠 Deep Reinforcement Learning and Quantum Computing/Information
      
       👾🚀🔀 Mathematical Physics pertaining to String Theory, Holography and Quantum Field/Information Theory
      
