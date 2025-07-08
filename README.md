@@ -49,7 +49,10 @@ See my current resume [here](https://github.com/johngrahamreynolds/Resume/blob/m
 
 Links to the folders/repos within my page are below: 
 
-- ### [Generative AI and LLMs](https://github.com/johngrahamreynolds/RoBERTa-base-DReiFT)
+- ### [CyberSolve-LinAlg](https://github.com/johngrahamreynolds/CyberSolve-LinAlg)
+      This repo contains all the code used to research the development of a mathematical reasoning model with the Google DeepMind mathematics dataset
+
+- ### [RoBERTa finetuning](https://github.com/johngrahamreynolds/RoBERTa-base-DReiFT)
       This repo contains the training, evaluation, and custom evaluation code used to train a large multilabel text classification model atop RoBERTa.
 
 - ### [Physics Research](https://github.com/johngrahamreynolds/Physics)
