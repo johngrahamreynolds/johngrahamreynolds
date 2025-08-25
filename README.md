@@ -53,6 +53,9 @@ Links to the folders/repos within my page are below:
 - ### [CyberSolve-LinAlg](https://github.com/johngrahamreynolds/CyberSolve-LinAlg)
       This repo contains all the code used to research the development of a mathematical reasoning model with the Google DeepMind mathematics dataset
 
+- ### [`hypertoolz`](https://github.com/johngrahamreynolds/hypertoolz)
+      An open-source package for efficient hyperparameter tuning in RL optimization problems.
+
 - ### [RoBERTa finetuning](https://github.com/johngrahamreynolds/RoBERTa-base-DReiFT)
       This repo contains the training, evaluation, and custom evaluation code used to train a large multilabel text classification model atop RoBERTa.
 
