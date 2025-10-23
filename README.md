@@ -53,7 +53,7 @@ See my current resume [here](https://github.com/johngrahamreynolds/Resume/blob/m
 Links to the folders/repos within my page are below: 
 
 - ### [Holographic Tensor Networks](https://github.com/johngrahamreynolds/holographic_tensor_networks)
-      Broad study of Holography through computational realizations of the AdS/CFT correspondance in theoretical physics
+      Broad study of Holography through computational realizations of the AdS/CFT correspondence in theoretical physics
 
 - ### [CyberSolve-LinAlg](https://github.com/johngrahamreynolds/CyberSolve-LinAlg)
       This repo contains all the code used to research the development of a mathematical reasoning model with the Google DeepMind mathematics dataset
