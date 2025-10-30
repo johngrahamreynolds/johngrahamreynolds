@@ -10,7 +10,7 @@ I finished my <ins>B.S. in Physics, Mathematics at Johns Hopkins University</ins
 
 My background of research (📖) and professional (🔩) experience includes:
 
-- 🔩📖 Open-source ML research engineering. Currently I'm building [`hypertoolz`](https://github.com/johngrahamreynolds/hypertoolz), a robust hyperparameter tuning library for RL. Previously I have contributed to repos across the Hugging Face ecosystem.
+- 📖🔩 Theoretical and phenomenological research on Tensor Networks (MPS/MERA/PEPS, hyperinvariant) and Emergent Geometry — leveraging entanglement, renormalization, and holographic QECCs to model spacetime and many‑body physics.
 - 🔩📖 AI and Deep Learning research and engineering - training state-of-the-art multi-million to multi-billion parameter Encoder and Decoder Transformer models with a specific interest in the mathematical abilities of AI([Hugging Face 🤗 profile](https://huggingface.co/MarioBarbeque))
 - 🔩 Using Apache Spark, Cloud Resources, and techniques from High-Performance Computing (amongst many other tools) to engineer Big Data and cloud, ML infrastructure
 - 📖 Theoretical Physics research on *Black Holes*, *String Theory*, *General Relativity*, and more - advised by David Kaplan (a fantastic [article and video](https://www.quantamagazine.org/wormhole-entanglement-and-the-firewall-paradox-20150424/) of David explaining the ideas I worked on!)
