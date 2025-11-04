@@ -64,15 +64,3 @@ Links to the folders/repos within my page are below:
 - ### [RoBERTa finetuning](https://github.com/johngrahamreynolds/RoBERTa-base-DReiFT)
       This repo contains the training, evaluation, and custom evaluation code used to train a large multilabel text classification model atop RoBERTa.
 
-- ### [Physics Research](https://github.com/johngrahamreynolds/Physics)
-      This folder houses all things physics research related (mathematical physics, experimental physics, etc.)
-
-- ### [Quantum Computing](https://github.com/johngrahamreynolds/QuantumComputing)
-      This folder houses all things related to quantum computing and quantum engineering
-
-- ### [Anthopic AI](https://github.com/johngrahamreynolds/Anthropic)
-      This repo contains various attempts to improve Claude's postprocessing ability with mathmematics and code generation.
-
-- ### [VUMC-Project](https://github.com/johngrahamreynolds/VUMC-Project)
-      This folder houses a short project I created in a few hours time as part of a job interview
-
