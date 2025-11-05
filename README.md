@@ -58,6 +58,9 @@ Links to the folders/repos within my page are below:
 - ### [CyberSolve-LinAlg](https://github.com/johngrahamreynolds/CyberSolve-LinAlg)
       This repo contains all the code used to research the development of a mathematical reasoning model with the Google DeepMind mathematics dataset
 
+- ### [Notes on String Theory and Quantum Gravity](https://github.com/johngrahamreynolds/string_solutions)
+      Typeset notes and solutions from various graduate-level string theory texts
+
 - ### [`hypertoolz`](https://github.com/johngrahamreynolds/hypertoolz)
       An open-source package for efficient hyperparameter tuning in RL optimization problems.
 
