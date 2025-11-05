@@ -32,7 +32,7 @@ See my current resume [here](https://github.com/johngrahamreynolds/Resume/blob/m
       
 🌱 I’m currently learning and solving problems in...
 
-      💻🏔🧠 Deep Reinforcement Learning and Quantum Computing/Information
+      💻🏔🧠 Deep Learning and Quantum Computing/Information
      
       👾🚀🔀 Mathematical Physics pertaining to String Theory, Holography and Quantum Field/Information Theory
      
