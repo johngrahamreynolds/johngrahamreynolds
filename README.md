@@ -55,6 +55,9 @@ Links to the folders/repos within my page are below:
 - ### [Holographic Tensor Networks](https://github.com/johngrahamreynolds/holographic_tensor_networks)
       Research repository exploring tensor networks as a unifying computational framework for quantum gravity, quantum information, quantum computing, and many-body systems
 
+- ### [Mitigating Catastrophic Forgetting in Mathematical Reasoning Finetuning](https://github.com/johngrahamreynolds/mathematical_catastrophe_mitigation)
+      Open source research project on arXiv investigating improved mathematical reasoning without catastrophic forgetting
+
 - ### [CyberSolve-LinAlg](https://github.com/johngrahamreynolds/CyberSolve-LinAlg)
       This repo contains all the code used to research the development of a mathematical reasoning model with the Google DeepMind mathematics dataset
 
