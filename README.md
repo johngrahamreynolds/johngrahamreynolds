@@ -40,7 +40,7 @@ See my current resume [here](https://github.com/johngrahamreynolds/Resume/blob/m
 
       🐂🏜️⛲️ To complete my MS at the University of Texas at Austin
 
-      👨‍💻👨‍🔬👷‍♂️ Professionally as a Machine Learning and Data Engineer
+      👨‍💻👨‍🔬👷‍♂️ Professionally as a Machine Learning and AI Engineer
       
       🧵⚛️📓 To type up solutions and notes on String Theory, Pure Mathematics, Generative AI, Quantum Computing, and more
 
