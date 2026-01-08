@@ -1,8 +1,8 @@
-👋 Hi, I’m @johngrahamreynolds. I'm currently a graduate student in the [University of Texas at Austin, Department of Computer Science](https://www.cs.utexas.edu/) and a professional Data, ML Engineer. I work broadly across engineering and the natural sciences as
+👋 Hi, I’m @johngrahamreynolds. I'm currently a graduate student in the [University of Texas at Austin, Department of Computer Science](https://www.cs.utexas.edu/) and an AI/ML Engineer at NASA Johnson Space Center. I work broadly across engineering and the natural sciences as
 
       ⚛️👨‍💻🧠 a computer scientist at UT Austin with interests in Quantum Computing, AGI, Deep Reasoning, etc.
       〈🌌〉 a mathematical physicist with interests in Quantum Gravity, String Theory, and Pure Mathematics, and
-      💻📊📐 a Data, Machine Learning Engineer at Vanderbilt University (2022 -> present)
+      💻📊📐 a AI/Machine Learning Engineer at NASA (2026 -> present)
 
 I finished my <ins>B.S. in Physics, Mathematics at Johns Hopkins University</ins> in May 2020.
 
