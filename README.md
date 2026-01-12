@@ -2,7 +2,7 @@
 
       ⚛️👨‍💻🧠 a computer scientist at UT Austin with interests in Quantum Computing, AGI, Deep Reasoning, etc.
       〈🌌〉 a mathematical physicist with interests in Quantum Gravity, String Theory, and Pure Mathematics, and
-      💻📊📐 an AI/Machine Learning Engineer at NASA working on Orion (2026 -> present)
+      💻📊📐 an AI/Machine Learning Engineer at NASA working on the Orion spacecraft (2026 -> present)
 
 I finished my <ins>B.S. in Physics, Mathematics at Johns Hopkins University</ins> in May 2020.
 
