@@ -16,7 +16,7 @@ My background of research (📖) and professional (🔩) experience includes:
 - 📖 Theoretical Physics research on *Black Holes*, *String Theory*, *General Relativity*, and more - advised by David Kaplan (a fantastic [article and video](https://www.quantamagazine.org/wormhole-entanglement-and-the-firewall-paradox-20150424/) of David explaining the ideas I worked on!)
 - 📖 Observational Cosmology and Cryogenics research and development - advised by Co-PIs Toby Marriage, Chuck Bennett ([CLASS Telescope website](https://sites.krieger.jhu.edu/class/))
 
-See my current resume [here](https://github.com/johngrahamreynolds/Resume/blob/main/JohnGrahamReynoldsResume_01_2026.pdf).
+See my current resume [here](https://github.com/johngrahamreynolds/Resume/blob/main/JohnGrahamReynoldsResume.pdf).
       
 👀 I’m interested in ... 
 
