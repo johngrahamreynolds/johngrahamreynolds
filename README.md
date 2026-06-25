@@ -52,6 +52,9 @@ See my current resume [here](https://github.com/johngrahamreynolds/Resume/blob/m
 
 Links to the folders/repos within my page are below: 
 
+- ### [Annulus](https://github.com/johngrahamreynolds/annulus)
+      Local-first, model-agnostic agentic AI platform for engineering and scientific research — OpenAI-compatible gateway with retrieval-augmented chat, server-side tool loop, SQLite tracing, and frontier escalation
+
 - ### [Holographic Tensor Networks](https://github.com/johngrahamreynolds/holographic_tensor_networks)
       Research repository exploring tensor networks as a unifying computational framework for quantum gravity, quantum information, quantum computing, and many-body systems
 
